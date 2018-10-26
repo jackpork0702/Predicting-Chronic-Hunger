@@ -9,4 +9,7 @@ The dataset is provided by Food and Agricultural Organization of the United Nati
 
 
 ### Report
-[01.raw_data_info.ipynb](https://github.com/s1002574/Predicting-Chronic-Hunger/blob/master/report/01.raw_data_info.ipynb)
+>* [01.raw_data_info.ipynb](https://github.com/s1002574/Predicting-Chronic-Hunger/blob/master/report/01.raw_data_info.ipynb)
+>* [02.data_cleaning.ipynb](https://github.com/s1002574/Predicting-Chronic-Hunger/blob/master/report/02.data_cleaning.ipynb)
+>* [03-(1).stepwise_regression.ipynb](https://github.com/s1002574/Predicting-Chronic-Hunger/blob/master/report/03-(1).stepwise_regression.ipynb)
+>* [03-(2).pca_and_modeling.ipynb](https://github.com/s1002574/Predicting-Chronic-Hunger/blob/master/report/ 	03-(2).pca_and_modeling.ipynb)
