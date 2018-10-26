@@ -7,3 +7,6 @@ This document presents an analysis of data concerning the annual prevalence of u
 
 The dataset is provided by Food and Agricultural Organization of the United Nations. After exploring the data by calculating summary, descriptive statistics, and creating visualizations of the data, several potential relationships between a country's socioeconomic indicators and its prevalence of undernourishment were identified. After exploring the data, a regression model to predict a country's undernourishment from its features was created.
 
+
+### Report
+[01.raw_data_info.ipynb](https://github.com/s1002574/Predicting-Chronic-Hunger/blob/master/report/01.raw_data_info.ipynb)
