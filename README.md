@@ -9,7 +9,7 @@ The dataset is provided by Food and Agricultural Organization of the United Nati
 
 
 ### Report
-[Final Report](https://github.com/jackpork0702/Predicting-Chronic-Hunger/blob/master/Predicting%20Chronic%20Hunger(final).pdf)
+>* [Final Report](https://github.com/jackpork0702/Predicting-Chronic-Hunger/blob/master/Predicting%20Chronic%20Hunger(final).pdf)
 
 ### Notebook
 >* [01.raw_data_info.ipynb](https://github.com/jackpork0702/Predicting-Chronic-Hunger/blob/master/report/01.raw_data_info.ipynb)
